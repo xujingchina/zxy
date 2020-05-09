@@ -1,0 +1,16 @@
+{
+    "appid": "__UNI__18047D7",
+    "iOS": {
+        "version": "1.6.000",
+        "title": "比特币神器版本更新",
+        "note": "更新如下内容：\n",
+        "url": "http://www.jincai.co/zxy.apk"
+    },
+    "Android": {
+        "version": "1.6.000",
+        "dbVersion": "1.6.000.0",
+        "title": "比特币神器版本更新:1.6.000",
+        "note": "更新如下内容。",
+        "url": "http://www.jincai.co/zxy.apk"
+    }
+}
